@@ -10,7 +10,7 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 
 :mailbox: Reach me out!
 
-[![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy) 
+<!-- [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy)  -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/cudhuy?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow)  -->
 [<img src="https://pngimg.com/uploads/github/github_PNG30.png" alt="GITHUB FOLLOW" title="GITHUB" height="28"/>](https://github.com/cudhuy/?tab=follow)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
@@ -67,6 +67,7 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
+<br>
 <br>
 
 <details>
