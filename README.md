@@ -4,10 +4,10 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 
 :mailbox: Reach me out!
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ledattadel/)](https://github.com/cudhuy) 
+[![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy) 
 [![GitHub followers](https://img.shields.io/github/followers/ledattadel?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledattadel/)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledattadel/)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/) -->
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranhuy141/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:datletrong215@gmail.com)](mailto:tdhuy141@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:huy.td194780@sis.hust.edu.vn)
