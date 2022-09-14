@@ -9,20 +9,20 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledattadel/)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/) -->
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranhuy141/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:datletrong215@gmail.com)](mailto:tdhuy141@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdhuy141@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:huy.td194780@sis.hust.edu.vn)
 
 
 <p align='center'>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
-- 🏦 I am a thỉd year student majoring in Global ICT at the Hanoi University of Science and Technology.
--  :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 📫 How to reach me: vthuy141vr@gmail.com or huy.td194780@sis.hust.edu.vn.
-- 👀 I’m interested in Full Stack Web Development.
-- 💻 I use daily .html, .css, .js, .reactjs, .php, .mysql.
-- 🌱 I’m currently learning Back End dev and Azure.
-- ⚡ Fun fact: I play games and read comic very often.
+<br> - 🏦 I am a thỉd year student majoring in Global ICT at the Hanoi University of Science and Technology.
+<br> -  :computer: Most used line of code `git commit -m "Initial Commit"`.
+<br> - 📫 How to reach me: vthuy141vr@gmail.com or huy.td194780@sis.hust.edu.vn.
+<br> - 👀 I’m interested in Full Stack Web Development.
+<br> - 💻 I use daily .html, .css, .js, .reactjs, .php, .mysql.
+<br> - 🌱 I’m currently learning Back End dev and Azure.
+<br> - ⚡ Fun fact: I play games and read comic very often.
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
