@@ -13,22 +13,24 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 <!-- [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy)  -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/cudhuy?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow)  -->
 [<img src="https://pngimg.com/uploads/github/github_PNG30.png" alt="GITHUB FOLLOW" title="GITHUB" height="28"/>](https://github.com/cudhuy/?tab=follow)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranhuy141/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdhuy141@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:huy.td194780@sis.hust.edu.vn)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
 
+<br>
 
 <p align='center'>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
+<br> 
+<strong>### About Me:</strong> 
 <br> - 🏦 I am a thỉd year student majoring in Global ICT at the Hanoi University of Science and Technology.
 <br> -  :computer: Most used line of code `git commit -m "Initial Commit"`
-<br> - 📫 How to reach me: vthuy141vr@gmail.com or huy.td194780@sis.hust.edu.vn.
-<br> - 👀 I’m interested in Full Stack Web Development.
+<br> - 📫 How to reach me: tdhuy141vt@gmail.com or huy.td194780@sis.hust.edu.vn.
 <br> - 💻 I use daily .html, .css, .js, .reactjs, .php, .mysql.
-<br> - 🌱 I’m currently learning Back End dev and Azure.
+<br> - 👀 I’m interested in Full Stack Web Development. 
 <br> - ⚡ Fun fact: I play games and read comic very often.
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
