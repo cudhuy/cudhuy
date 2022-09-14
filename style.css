@@ -8,7 +8,6 @@ body {
     background-color: #333;
     color: #fff;
     font-family: Roboto;
-    /* color:#555555; */
 }
 
 .container {
@@ -66,7 +65,7 @@ li.css:after {
 
 @keyframes css {
     to {
-        width: 80%;
+        width: 90%;
     }
 }
 
