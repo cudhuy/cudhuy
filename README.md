@@ -12,7 +12,7 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 
 [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy) 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/cudhuy?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow)  -->
-[<img align="left" alt="React" width="28px" src="https://pngimg.com/uploads/github/github_PNG30.png" />](https://github.com/cudhuy/?tab=follow)
+[<img src="https://pngimg.com/uploads/github/github_PNG30.png" alt="GITHUB FOLLOW" title="GITHUB" height="28"/>] (https://github.com/cudhuy/?tab=follow)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranhuy141/)
