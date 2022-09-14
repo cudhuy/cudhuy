@@ -1,3 +1,9 @@
+<p align="center">
+ 💎 💎 💎 </br>
+ Let's coding every day, Learn every time.<br>
+ Let's go beyond our limits<br>
+</p>
+
 ## Hi there, I'm Tran Duc Huy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and Technology.
@@ -5,8 +11,9 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 :mailbox: Reach me out!
 
 [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy) 
-[![GitHub followers](https://img.shields.io/github/followers/ledattadel?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow) 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledattadel/)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/) -->
+<!-- [![GitHub followers](https://img.shields.io/github/followers/cudhuy?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow)  -->
+[<img align="left" alt="React" width="28px" src="https://pngimg.com/uploads/github/github_PNG30.png" />](https://github.com/cudhuy/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranhuy141/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdhuy141@gmail.com)
@@ -17,7 +24,7 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
 <br> - 🏦 I am a thỉd year student majoring in Global ICT at the Hanoi University of Science and Technology.
-<br> -  :computer: Most used line of code `git commit -m "Initial Commit"`.
+<br> -  :computer: Most used line of code `git commit -m "Initial Commit"`
 <br> - 📫 How to reach me: vthuy141vr@gmail.com or huy.td194780@sis.hust.edu.vn.
 <br> - 👀 I’m interested in Full Stack Web Development.
 <br> - 💻 I use daily .html, .css, .js, .reactjs, .php, .mysql.
@@ -61,3 +68,12 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 &nbsp;
 
 <br>
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+</details>
