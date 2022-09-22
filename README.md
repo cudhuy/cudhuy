@@ -1,6 +1,6 @@
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
+ Let's code every day and learn every time.<br>
  Let's go beyond our limits<br>
 </p>
 
@@ -70,6 +70,9 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 &nbsp;
 
 <br>
+<p align='center'>
+  <a href="#"><img src="https://user-images.githubusercontent.com/1473072/33020417-45869a00-ce0f-11e7-9faa-368445d463f7.gif" width="100"></a>
+</p>
 <br>
 
 <details>
