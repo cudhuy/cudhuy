@@ -70,8 +70,10 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 &nbsp;
 
 <br>
+<br>
+<br>
 <p align='center'>
-  <a href="#"><img src="https://user-images.githubusercontent.com/1473072/33020417-45869a00-ce0f-11e7-9faa-368445d463f7.gif" width="100"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/1473072/33020417-45869a00-ce0f-11e7-9faa-368445d463f7.gif" width="125"></a>
 </p>
 <br>
 
