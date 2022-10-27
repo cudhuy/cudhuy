@@ -1,23 +1,39 @@
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+<h3 align="center">
+  Hi there, Welcome to my profile! 
+  <br>
+  I'm Tran Duc Huy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- 💎 💎 💎 </br>
- Let's code every day and learn every time.<br>
- Let's go beyond our limits<br>
+  &Tab;&Tab;&Tab;&Tab;&Tab;
+  <a href="https://github.com/cudhuy/cudhuy"><img src="https://readme-typing-svg.demolab.com?font=Monalisa&size=24&pause=1000&color=2C9A65FF&width=435&lines=I'm+a+student+in+HUST,+VietNam.;I'm+full-stack+web+and+app+developer.;Experienced+UI%2FUX+Designer.;Always+learning+new+things."></a>
 </p>
 
-## Hi there, I'm Tran Duc Huy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<p align="center">
+:mailbox: **Reach me out!** 
+</p>
 
-I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and Technology.
-
-:mailbox: Reach me out!
-
-<!-- [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cudhuy)  -->
-<!-- [![GitHub followers](https://img.shields.io/github/followers/cudhuy?label=Follow&style=social)](https://github.com/cudhuy/?tab=follow)  -->
-[<img src="https://pngimg.com/uploads/github/github_PNG30.png" alt="GITHUB FOLLOW" title="GITHUB" height="28"/>](https://github.com/cudhuy/?tab=follow)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranhuy141/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdhuy141@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:huy.td194780@sis.hust.edu.vn)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy)
+<p align="center">
+  <a href="https://github.com/cudhuy" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/tranhuy141/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />        
+  </a>&nbsp;
+  <a href="mailto:tdhuy141@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;
+    <a href="https://www.linkedin.com/in/huy-tr%E1%BA%A7n-b7230b250/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;
+    <a href="https://stackoverflow.com/users/19986287/tr%e1%ba%a7n-huy" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
+  </a>&nbsp;
+</p>
 
 <br>
 
@@ -50,15 +66,16 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=00000" alt="Next.js logo" title="Next.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
+<br>
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe%20Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" alt="Photoshop logo" title="Photoshop" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
@@ -71,7 +88,6 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 
 <br>
 <br>
-<br>
 <p align='center'>
   <a href="#"><img src="https://user-images.githubusercontent.com/1473072/33020417-45869a00-ce0f-11e7-9faa-368445d463f7.gif" width="125"></a>
 </p>
@@ -79,9 +95,35 @@ I'm a Front End Web Developer. I 'm a student in Hanoi University of Science and
 
 <details>
 <summary>
-  More stuff about me
+  <!-- More stuff about me -->
+  
+  ## 🔥 Streak stats
 </summary>
 
-<br >
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Top Language - https://github.com/anuraghazra/github-readme-stats -->
+<!-- 🔥 Streak stats -->
 
+💻 GitHub Profile Stats
+
+<p align="center">
+<br>
+  <a href="https://github.com/cudhuy/cudhuy">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CudHuy's streak" src="https://streak-stats.demolab.com?user=cudhuy&theme=vue" height="230px" />
+  </a>
+  <a href="https://github.com/cudhuy/cudhuy"><img alt="CudHuy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudhuy" height="230px"/>
+  </a>
+  <br/>
+     💎 💎 💎 </br>
+ Let's code every day and learn every time.<br>
+ Let's go beyond our limits<br>
+</p>
+
+<!-- ## 📊 Github stats -->
+
+<!-- <p align="center">
+<br>
+  <a href="https://github.com/cudhuy/cudhuy"><img alt="CudHuy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudhuy" height=""/></a>
+  <br/>
+</p> -->
 </details>
