@@ -104,14 +104,14 @@
 <!-- GitHub Readme Top Language - https://github.com/anuraghazra/github-readme-stats -->
 <!-- 🔥 Streak stats -->
 
-  💻 GitHub Profile Stats
+💻 GitHub Profile Stats
 
 <p align="center">
 <br>
   <a href="https://github.com/cudhuy/cudhuy">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CudHuy's streak" src="https://streak-stats.demolab.com?user=cudhuy&theme=vue" height="240px" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CudHuy's streak" src="https://streak-stats.demolab.com?user=cudhuy&theme=vue" height="230px" />
   </a>
-  <a href="https://github.com/cudhuy/cudhuy"><img alt="CudHuy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudhuy" height="240px"/>
+  <a href="https://github.com/cudhuy/cudhuy"><img alt="CudHuy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudhuy" height="230px"/>
   </a>
   <br/>
      💎 💎 💎 </br>
