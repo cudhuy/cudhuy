@@ -10,7 +10,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   &Tab;&Tab;&Tab;&Tab;&Tab;
-  <a href="https://github.com/cudhuy/cudhuy"><img src="https://readme-typing-svg.demolab.com?font=Monalisa&size=24&pause=1000&color=2C9A65FF&width=435&lines=I'm+a+student+in+HUST,+VietNam.;I'm+full-stack+web+and+app+developer.;Experienced+UI%2FUX+Designer.;Always+learning+new+things."></a>
+  <a href="https://github.com/cudhuy/cudhuy"><img src="https://readme-typing-svg.demolab.com?font=Monalisa&size=24&pause=1000&color=2C9A65FF&width=435&lines=I'm+a+student+in+HUST,+VietNam.;I'm+full-stack+web+and+app+dev.;Experienced+UI%2FUX+Designer.;Always+learning+new+things."></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 <br>
 
 <p align='center'>
-  <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
+  <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="260"></a>
 </p>
 <br> 
 <strong>### About Me:</strong> 
@@ -113,7 +113,8 @@
   </a>
   <a href="https://github.com/cudhuy/cudhuy"><img alt="CudHuy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudhuy" height="230px"/>
   </a>
-  <br/>
+  <br>
+  <br>
      💎 💎 💎 </br>
  Let's code every day and learn every time.<br>
  Let's go beyond our limits<br>
